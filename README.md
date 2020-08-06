@@ -1,5 +1,4 @@
 <h1 align="center">Fuzzy Miner</h1>
-A Zoom Clone application built using:
 <div align="center">
   <strong>A Zoom Clone application. The application is deployed on heroku and you can go and check that out <a href="https://zoomcloneproject.herokuapp.com/">here</a> </strong>
 </div>
